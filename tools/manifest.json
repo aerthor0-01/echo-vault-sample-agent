@@ -1,0 +1,8 @@
+{
+  "_note": "SAMPLE DATA - fictional tool manifest for the Echo Vault demo",
+  "tools": [
+    { "name": "web_search", "access": "read", "enabled": true },
+    { "name": "read_url", "access": "read", "enabled": true },
+    { "name": "send_email", "access": "write", "enabled": false }
+  ]
+}
