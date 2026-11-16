@@ -3,6 +3,6 @@
   "tools": [
     { "name": "web_search", "access": "read", "enabled": true },
     { "name": "read_url", "access": "read", "enabled": true },
-    { "name": "send_email", "access": "write", "enabled": false }
+    { "name": "send_email", "access": "write", "enabled": true }
   ]
 }
